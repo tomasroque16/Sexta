@@ -2,11 +2,11 @@
 
 int main () {
 
-        printf("total\n100%");
-        printf("IVA\n18%");
-        printf("IRS\10%")
+        printf("total\t100%");
+        printf("IVA\t18%");
+        printf("IRS\t10%");
 
-return 0
+return 0;
 
 
 
