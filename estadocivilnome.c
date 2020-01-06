@@ -4,7 +4,7 @@ int main () {
    char estadocivil = 'B';
    switch(estadocivil)
       case 'C' :
-         printf("Casado!\n" );
+         printf("Casado\n" );
          break;
       case 'S' :
          printf("Solteiro\n" );
@@ -19,6 +19,6 @@ int main () {
          printf("Invalido \n" );
    }
    
-   printf("Your grade is  %c\n", grade );
+   printf("Estado %c\n", grade );
  
    return 0;
